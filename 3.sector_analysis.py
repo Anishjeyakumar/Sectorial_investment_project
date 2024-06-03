@@ -17,7 +17,7 @@ companies = {
 }
 
 #date range to determine the stocks to be taken for investing next year
-#to invest in 2017 ,backtest here from jan 2016 to dec 2016
+#to invest in 2021 ,backtest here from jan 2020 to dec 2020
 start_date = '2020-01-01'
 end_date = '2020-12-31'
 
